@@ -62,7 +62,7 @@ estimate from a reliable density and add a `<!-- check: ... -->` note. Liquids i
 convert straight to ml (1 cup = 240 ml). Keep eggs/items as counts ("3 eggs").
 
 ## Step 4 — Write the file
-Follow `TEMPLATE.md` in the repo root exactly. Filename: kebab-case English title,
+Follow `.claude/TEMPLATE.md` exactly. Filename: kebab-case English title,
 e.g. `recipes/brown-butter-chocolate-chip-cookies.md`. Group ingredients by component
 when the recipe has parts (dough / filling / glaze). Always add a source line in Notes:
 `Source: <url>`. Number method steps.
