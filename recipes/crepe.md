@@ -1,4 +1,4 @@
-# Crêpe Batter (Extra-Fine)
+# Crêpe
 
 *Makes: ~6 servings · Active time: 15 min · Cook time: ~2 min per crêpe*
 

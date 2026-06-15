@@ -5,7 +5,7 @@ to read it, on GitHub or your phone. No tools required.
 
 ## Recipes
 
-- [Crêpe Batter (Extra-Fine)](recipes/crepe-batter.md)
+- [Crêpe](recipes/crepe.md)
 
 ## Adding a recipe
 
