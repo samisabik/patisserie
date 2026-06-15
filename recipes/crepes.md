@@ -1,4 +1,4 @@
-# Crêpe
+# Crêpes
 
 > A classic, lightly enriched French crêpe batter: flour, eggs, milk, butter, and a
 > splash of Grand Marnier or rum.
