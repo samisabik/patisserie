@@ -39,7 +39,7 @@ function renderHome(recipes) {
     <p class="intro">A personal collection of pastry &amp; dessert recipes.
     Pick one below, or browse the plain Markdown on GitHub.</p>
     <ul class="recipe-list">${items}</ul>`;
-  document.title = "🧁 Cookbook";
+  document.title = "Cookbook";
 }
 
 async function renderRecipe(path) {
@@ -68,7 +68,7 @@ async function renderRecipe(path) {
       <a href="${ghUrl}" target="_blank" rel="noopener">View this recipe on GitHub</a>
     </p>`;
 
-  document.title = (meta ? meta.title : "Recipe") + " · 🧁 Cookbook";
+  document.title = (meta ? meta.title : "Recipe") + " · Cookbook";
   window.scrollTo(0, 0);
 }
 
