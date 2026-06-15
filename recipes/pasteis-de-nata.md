@@ -17,7 +17,7 @@
 - Ground cinnamon
 - Or a syrup glaze: 40 ml water + 40 g granulated sugar
 
-## Method
+## Recette
 
 1. Roll out or unroll the puff pastry on baking paper to form a 36 x 30 cm rectangle. Roll the pastry up tightly into a log along its length. Just before reaching the end, brush the remaining edge with water using a pastry brush, then finish rolling.
 2. Trim off the uneven ends with a knife, then cut into rounds 3 cm wide. Place each round cut-side up into 8 cm pastéis de nata moulds or a muffin tin.

@@ -66,7 +66,7 @@ convert straight to ml (1 cup = 240 ml). Keep eggs/items as counts ("3 eggs").
 Follow `.claude/TEMPLATE.md` exactly. Filename: kebab-case English title,
 e.g. `recipes/brown-butter-chocolate-chip-cookies.md`. Group ingredients by component
 when the recipe has parts (dough / filling / glaze). Do not add a source line or source
-URL anywhere in the recipe. Number method steps.
+URL anywhere in the recipe. The method section heading is `## Recette`; number its steps.
 
 Stick to the recipe as written. Never add your own tips, commentary, safety notes,
 storage advice, or serving suggestions. Only include a `## Notes` section if the source

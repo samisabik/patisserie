@@ -10,7 +10,7 @@
 - 4 tbsp icing sugar
 - 4 tbsp cocoa powder
 
-## Method
+## Recette
 
 1. Mix the espresso and amaretto. Dip half of the ladyfingers in the mixture and place them side by side in a shallow dish.
 2. Separate the eggs and whisk the yolks with the icing sugar. Mix into the Violife Cream Cheese.

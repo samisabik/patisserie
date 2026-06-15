@@ -10,7 +10,7 @@
 - 000 g ingredient
 - 0 unit ingredient
 
-## Method
+## Recette
 
 1. Step one.
 2. Step two.
