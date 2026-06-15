@@ -28,11 +28,16 @@
 7. Strain the sugar syrup through a fine sieve to remove the zest and cinnamon stick, then pour it into the flour mixture in several additions, whisking well between each. Let cool to about 37 °C.
 8. Preheat the oven to 250 °C (conventional/non-fan heat).
 9. Whisk in the egg yolks and vanilla a little at a time until smooth and lump-free. Pour the custard into a jug with a pouring spout.
-10. Fill each mould with the custard, leaving a small gap at the top. Once the oven is fully hot, bake for 15–16 minutes. The tarts should puff up visibly and develop their characteristic blistered colour.
+10. Fill each mould with the custard, leaving a small gap at the top. Once the oven is fully hot, bake for 15-16 minutes. The tarts should puff up visibly and develop their characteristic blistered colour.
 11. Out of the oven, three options: enjoy plain (warm or cold), dusted with a little cinnamon as in Lisbon, or glazed with sugar syrup (bring the sugar and water to the boil).
 
 ## Notes
 
 - Best on the day, freshly baked.
-- Keep at room temperature for 1–2 days, or refrigerate.
+- Keep at room temperature for 1-2 days, or refrigerate.
 - Warm briefly in the oven again to restore the creaminess and crispness.
+
+<!--
+Photo: drop an image next to this file and uncomment:
+![](photo.jpg)
+-->
