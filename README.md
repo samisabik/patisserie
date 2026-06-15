@@ -9,6 +9,5 @@ add a line to the list below.
 ## Recipes
 
 - [Crêpe Batter (Extra-Fine)](recipes/crepe-batter.md)
-- [Lemon Tart](recipes/lemon-tart.md)
 
 See [ADDING-RECIPES.md](ADDING-RECIPES.md) — just give Claude Code a link.
