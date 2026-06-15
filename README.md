@@ -6,6 +6,7 @@ to read it, on GitHub or your phone. No tools required.
 ## Recipes
 
 - [Crêpe](recipes/crepe.md)
+- [Lactose-Free Tiramisu](recipes/lactose-free-tiramisu.md)
 - [Pastéis de Nata](recipes/pasteis-de-nata.md)
 
 ## Adding a recipe
