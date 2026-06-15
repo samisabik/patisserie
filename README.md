@@ -17,9 +17,6 @@ My personal collection of pastry & dessert recipes.
 
 ## Adding a recipe
 
-**Easiest:** open this repo in Claude Code and say *"Add this recipe: `<link>`"*.
+Open this repo in Claude Code and say *"Add this recipe: `<link>`"*.
 The `recipe-importer` agent fetches the page, translates it to English, converts all
 units to metric, writes the file, updates this list, and pushes.
-
-**By hand:** copy [`.claude/TEMPLATE.md`](.claude/TEMPLATE.md) into `recipes/`, fill it
-in, add a line to the list above, then commit and push.
