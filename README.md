@@ -14,9 +14,3 @@ My personal collection of pastry & dessert recipes.
 - [Pastéis de Nata](recipes/pasteis-de-nata.md)
 - [Quick Shortcrust Pastry](recipes/quick-shortcrust-pastry.md)
 - [Salted Butter Caramel Sauce](recipes/salted-butter-caramel-sauce.md)
-
-## Adding a recipe
-
-Open this repo in Claude Code and say *"Add this recipe: `<link>`"*.
-The `recipe-importer` agent fetches the page, translates it to English, converts all
-units to metric, writes the file, updates this list, and pushes.
