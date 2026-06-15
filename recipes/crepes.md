@@ -8,7 +8,7 @@
 - 6 whole eggs
 - 90 g butter, melted
 - 1 L milk
-- 3 tbsp Grand Marnier or rum <!-- check: source listed "3 Grand Marnier" with no unit; assumed tablespoons -->
+- 3 tbsp Grand Marnier or rum
 
 ## Recette
 
