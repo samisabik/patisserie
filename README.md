@@ -1,5 +1,4 @@
-My personal collection of pastry & dessert recipes. Plain Markdown — open any file
-to read it, on GitHub or your phone. No tools required.
+My personal collection of pastry & dessert recipes.
 
 **Browse online:** https://samisabik.github.io/patisserie/
 
