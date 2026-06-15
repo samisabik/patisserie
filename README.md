@@ -9,6 +9,7 @@ to read it, on GitHub or your phone. No tools required.
 - [Crêpes](recipes/crepes.md)
 - [Lactose-Free Tiramisu](recipes/lactose-free-tiramisu.md)
 - [Pastéis de Nata](recipes/pasteis-de-nata.md)
+- [Salted Butter Caramel Sauce](recipes/salted-butter-caramel-sauce.md)
 
 ## Adding a recipe
 
