@@ -12,12 +12,13 @@ language and any layout. Never assume a fixed page structure.
 Either a URL or pasted recipe text. The user may give several at once.
 
 ## Step 1 — Get the recipe content (try in order, stop when you have it)
-1. **WebFetch** the URL asking it to extract the recipe verbatim (title, servings,
-   times, full ingredient list with quantities, every method step, notes).
+1. **WebFetch** the URL asking it to extract the recipe verbatim (title,
+   full ingredient list with quantities, every method step, any author notes).
+   Do not extract servings, yield, or times; the recipe file omits them.
 2. If WebFetch is blocked/empty, **`curl -sL` with a real browser User-Agent** to a temp
    file, then extract. The cleanest signal on most sites is JSON-LD:
    `grep -o '"recipeIngredient":\[[^]]*\]'` and `'"recipeInstructions":\[[^]]*\]'`,
-   plus `"recipeYield"`, `"prepTime"`, `"cookTime"`, `<title>`. If there's no JSON-LD,
+   plus `<title>`. If there's no JSON-LD,
    read the visible text and pick out the recipe, ignoring ads/nav/comments/SEO filler.
 3. If still stuck (JS-only page, paywall), tell the user and ask them to paste the text.
 
@@ -64,8 +65,16 @@ convert straight to ml (1 cup = 240 ml). Keep eggs/items as counts ("3 eggs").
 ## Step 4 — Write the file
 Follow `.claude/TEMPLATE.md` exactly. Filename: kebab-case English title,
 e.g. `recipes/brown-butter-chocolate-chip-cookies.md`. Group ingredients by component
-when the recipe has parts (dough / filling / glaze). Always add a source line in Notes:
-`Source: <url>`. Number method steps.
+when the recipe has parts (dough / filling / glaze). Do not add a source line or source
+URL anywhere in the recipe. Number method steps.
+
+Stick to the recipe as written. Never add your own tips, commentary, safety notes,
+storage advice, or serving suggestions. Only include a `## Notes` section if the source
+author wrote their own notes/tips/variations — translate those and include them verbatim
+in meaning. If the author wrote no notes, omit the `## Notes` section entirely.
+
+Do not use em dashes (—) in any text you write. Use a comma, colon, or parentheses
+instead.
 
 ## Step 5 — Update the index & save
 1. Add `- [Title](recipes/<slug>.md)` to the Recipes list in `README.md`, keeping the

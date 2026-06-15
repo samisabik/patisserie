@@ -1,9 +1,7 @@
 # Recipe Name
 
-*Makes: X · Active time: X · Total time: X*
-
-> One-line note about the recipe — what it tastes like, where it came from, or a
-> tip. Delete if you don't want it.
+> One-line note about the recipe: what it tastes like or where it came from.
+> Delete if you don't want it.
 
 ## Ingredients
 
@@ -23,9 +21,8 @@
 
 ## Notes
 
-- Make-ahead / storage tips.
-- Substitutions.
-- What to do differently next time.
+Only include this section if the source author wrote their own notes, tips, or
+variations. Copy those; do not invent your own. Omit the section otherwise.
 
 <!--
 Photo: drop an image next to this file and uncomment:

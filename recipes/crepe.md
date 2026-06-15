@@ -1,8 +1,6 @@
 # Crêpe
 
-*Makes: ~6 servings · Active time: 15 min · Cook time: ~2 min per crêpe*
-
-> A classic, lightly enriched French crêpe batter — flour, eggs, milk, butter, and a
+> A classic, lightly enriched French crêpe batter: flour, eggs, milk, butter, and a
 > splash of Grand Marnier or rum.
 
 ## Ingredients
@@ -20,10 +18,5 @@
 1. In a large bowl, mix the flour, salt, and sugar.
 2. Make a well in the center.
 3. Add the eggs and start working them into the flour with a wooden spoon. Add the melted (lukewarm) butter little by little and mix well.
-4. Incorporate the milk gradually — in small amounts at first to avoid lumps — then add the Grand Marnier or rum.
+4. Incorporate the milk gradually (in small amounts at first to avoid lumps), then add the Grand Marnier or rum.
 5. Cook the crêpes in a hot, lightly oiled pan.
-
-## Notes
-
-- Resting the batter 30–60 min before cooking gives more tender crêpes.
-- Source: https://www.marmiton.org/recettes/recette_pate-a-crepes-des-plus-raffinees_49665.aspx
