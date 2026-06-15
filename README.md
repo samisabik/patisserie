@@ -6,6 +6,7 @@ to read it, on GitHub or your phone. No tools required.
 ## Recipes
 
 - [Chocolate and Pecan Brownie](recipes/chocolate-pecan-brownie.md)
+- [Chocolate Ganache for Tart](recipes/chocolate-ganache-tart.md)
 - [Crêpes](recipes/crepes.md)
 - [Lactose-Free Tiramisu](recipes/lactose-free-tiramisu.md)
 - [Pastéis de Nata](recipes/pasteis-de-nata.md)
