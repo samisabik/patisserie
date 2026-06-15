@@ -70,8 +70,11 @@ URL anywhere in the recipe. Number method steps.
 
 Stick to the recipe as written. Never add your own tips, commentary, safety notes,
 storage advice, or serving suggestions. Only include a `## Notes` section if the source
-author wrote their own notes/tips/variations — translate those and include them verbatim
+author wrote their own notes/tips/variations; translate those and include them verbatim
 in meaning. If the author wrote no notes, omit the `## Notes` section entirely.
+
+Do not add a description, tagline, or `>` blockquote summarizing the recipe. The file
+starts with the `# Title` and goes straight to `## Ingredients`.
 
 Do not use em dashes (—) in any text you write. Use a comma, colon, or parentheses
 instead.

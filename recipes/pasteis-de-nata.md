@@ -1,9 +1,5 @@
 # Pastéis de Nata
 
-> The traditional Portuguese custard tarts: crisp, blistered puff pastry shells
-> filled with a silky cinnamon-and-lemon scented custard. Best eaten warm the day
-> they're baked.
-
 ## Ingredients
 
 **Tarts**

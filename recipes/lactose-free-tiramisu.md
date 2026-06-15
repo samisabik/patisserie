@@ -1,8 +1,5 @@
 # Lactose-Free Tiramisu
 
-> A classic Italian no-bake dessert made dairy-friendly with Violife Cream Cheese,
-> with coffee-soaked ladyfingers layered in an airy amaretto cream.
-
 ## Ingredients
 
 - 400 g Violife Cream Cheese

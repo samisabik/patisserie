@@ -1,8 +1,5 @@
 # Recipe Name
 
-> One-line note about the recipe: what it tastes like or where it came from.
-> Delete if you don't want it.
-
 ## Ingredients
 
 **Component 1 (e.g. Pastry)**
